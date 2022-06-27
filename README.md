@@ -9,7 +9,7 @@ to implement and run this project you should have the following prerequisites
 Text editor
 browser like crome
 ## Author
- [Githab](https://github.com/settings/profile)
+ [Githab](https://github.com/haftamudesta)
 [linkedin](https://www.linkedin.com/in/haftamu-desta-795791a1/)
 [tiwtter](https://twitter.com/DestaHftamu?t=NQ4ovkdWbsfsjh62NFEXFg&s=09)
 
