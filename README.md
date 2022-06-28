@@ -9,10 +9,11 @@ to implement and run this project you should have the following prerequisites
 Text editor
 browser like crome
 ## Author
+## Name: Haftamu Desta
 ### Here are my social media links
-- [Githab](https://github.com/haftamudesta)
-- [linkedin](https://www.linkedin.com/in/haftamu-desta-795791a1/)
-- [tiwtter](https://twitter.com/DestaHftamu?t=NQ4ovkdWbsfsjh62NFEXFg&s=09)
+- [haftamudesta](https://github.com/haftamudesta)
+- [Haftamu Desta](https://www.linkedin.com/in/haftamu-desta-795791a1/)
+- [DestaHaftamu](https://twitter.com/DestaHftamu?t=NQ4ovkdWbsfsjh62NFEXFg&s=09)
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!
